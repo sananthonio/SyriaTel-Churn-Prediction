@@ -23,10 +23,23 @@ our dataset has three datatypes:float64,int64 and bool
 
 ![alt text](images/image3.png)
 
-###### modeling
+ # Modeling
 The dataset was divided into training and testing
 to train a model, enabling it to learn patterns, relationships, or functions from the data while testing is used to predict the unseen data.
-we used the logistic model and 
+we used the logistic model,random forest and decision trees.The modeling process involved optimizing performance through hyperparameter tuning to identify the best-performing model.
+
+# Evaluation
+- from the difrent model i used that is logistic regretion,decision tree  and random forest model i found that  the best model was  random forest model with roc score:86%
+
+# conclusion
+## Recommendations
+- 1.Improve on customer services calls: This may include services such as wait time and customer satisfaction.
+- 2.Introduce customised and affordable call plans for boh day and night calls
+- 3.Proactive Customer Outreach: Regularly reach out to customers to gather feedback and address concerns
+- 4.Security Measures: Implement stringent security measures ensure customer privacy and data protection
+- 5. improve area code services: from analysis we can see area code 415 has high customer churn.
+  
+
 
 
 
