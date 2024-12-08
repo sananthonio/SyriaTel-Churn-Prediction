@@ -29,7 +29,7 @@ to train a model, enabling it to learn patterns, relationships, or functions fro
 we used the logistic model,random forest and decision trees.The modeling process involved optimizing performance through hyperparameter tuning to identify the best-performing model.
 
 # Evaluation
-- from the difrent model i used that is logistic regretion,decision tree  and random forest model i found that  the best model was  random forest model with roc score:86%
+- from the different model i used that is logistic regretion,decision tree  and random forest model i found that  the best model was  random forest model with roc score:86%
 
 # conclusion
 ## Recommendations
@@ -37,7 +37,7 @@ we used the logistic model,random forest and decision trees.The modeling process
 - 2.Introduce customised and affordable call plans for boh day and night calls
 - 3.Proactive Customer Outreach: Regularly reach out to customers to gather feedback and address concerns
 - 4.Security Measures: Implement stringent security measures ensure customer privacy and data protection
-- 5. improve area code services: from analysis we can see area code 415 has high customer churn.
+- 5.improve area code services: from analysis we can see area code 415 has high customer churn.
   
 
 
